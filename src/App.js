@@ -33,7 +33,7 @@ function App() {
           <button className="btn" type="submit">
             Submit
           </button>
-        </form>{" "}
+        </form>
       </section>
       <section className="colors">
         {list.map((color, index) => {
